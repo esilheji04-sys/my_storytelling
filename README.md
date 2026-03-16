@@ -1,6 +1,6 @@
 
-# Proyecto Storytelling (template): 
-### my_storytelling
+# Proyecto Storytelling (template): Manolo y la abuela mecánica
+### Grupo 10: G10
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 
@@ -13,16 +13,16 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :man:Daniel López Pérez
 - :woman:Rocío Sánchez Gómez
 - :woman: Silvia Herrera Jiménez
-
+- :woman: Claudia Valenzuela Pérez
 
 Proyecto (código): 
 URL (link) del proyecto en Github: 
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
+- [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Comic
 
 
 
