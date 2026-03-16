@@ -1,5 +1,5 @@
 
-# Proyecto Storytelling (template): Manolo y la abuela mecánica
+# Manolo y la abuela mecánica
 ### Grupo 10: G10
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
@@ -16,7 +16,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Claudia Valenzuela Pérez
 
 Proyecto (código): 
-URL (link) del proyecto en Github: 
+URL (link) del proyecto en Github: https://github.com/esilheji04-sys/Manolo_abuela
 
 
 Tipo/Género:  
@@ -27,7 +27,7 @@ Tipo/Género:
 
 
 ## Resumen
-
+Manolo se encuentra de retiro espiritual en la playa de La Malagueta con su compañero Baldomero. Mientras los dos se comen un espeto, la abuela de Manolo es atropellada por un autobús U3
 
 ### Personaje
 
