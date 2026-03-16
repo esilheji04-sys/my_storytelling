@@ -44,7 +44,7 @@ NOTA: La ficha del personaje se puede hacer con la pizarra online https://excali
 
 
 ### TagLine
-
+Un trágico suceso perturba el retiro espiritual de Manolo.
 
 ### Conflicto 
 
