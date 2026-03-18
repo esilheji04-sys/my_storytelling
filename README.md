@@ -1,4 +1,4 @@
-
+<img width="1020" height="1530" alt="image" src="https://github.com/user-attachments/assets/c400915b-3913-4119-8ee0-958cfc4ccc0a" /><img width="1020" height="1530" alt="image" src="https://github.com/user-attachments/assets/68cc65b8-1381-425f-8476-d3d16f1fd54e" />
 # Manolo y la abuela mecánica
 ### Grupo 10: G10
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
@@ -27,7 +27,7 @@ Tipo/Género:
 
 
 ## Resumen
-Manolo se encuentra de retiro espiritual en la playa de La Malagueta con su compañero Baldomero. Mientras los dos se comen un espeto, la abuela de Manolo es atropellada por un autobús U3
+Manolo se encuentra de retiro espiritual en la playa de La Malagueta con su compañero Baldomero. Mientras los dos se comen un espeto, la abuela de Manolo es atropellada por un autobús U3.
 
 ### Personaje
 
@@ -51,14 +51,17 @@ Un trágico suceso perturba el retiro espiritual de Manolo.
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personajes:
+  Manolo
+<img width="1024" height="1536" alt="image (1)" src="https://github.com/user-attachments/assets/5031dc26-dd63-4c22-b8c9-f545fc55221e" />
+  
+  Baldomero
+  <img width="687" height="1024" alt="image" src="https://github.com/user-attachments/assets/e6cce353-6fec-4555-9fa4-91ace5da3f13" />
 
+  Primitiva 
+<img width="1024" height="1024" alt="image (2)" src="https://github.com/user-attachments/assets/b16d3a19-5f3b-4291-92b3-5f7e9d19918b" />
 
-- Banner/Teaser:  (enlace) 
-
-
-- Storytelling: (enlace) 
-
+- Enlace al interactivo: https://app.lumi.education/run/gVydLG 
 
 
 
