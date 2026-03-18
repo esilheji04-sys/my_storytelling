@@ -61,7 +61,7 @@ Baldomero <br>
 Primitiva <br> 
 <img width="256" height="256" alt="image (2)" src="https://github.com/user-attachments/assets/b16d3a19-5f3b-4291-92b3-5f7e9d19918b" /> <br>
 
-- Enlace al interactivo: https://app.lumi.education/run/gVydLG 
+- Enlace al interactivo: https://app.lumi.education/run/gVydLG   
 
 
 
