@@ -45,9 +45,9 @@ La calma en la playa de La Malagueta era tan palpable que casi se podía cortar,
 
 —Nota el equilibrio, Manolo — decía Baldomero mientras se comía una sardina—. La vida es como este espeto: si te olvidas, se te quema, pero si la sabes mover. . . es pura maravilla. 
 
-Manolo asintió, dejándose llevar por el sonido de las olas y el olor a brasa del chiringuito. Estaba en pleno descanso espiritual, intentando ignorar a la gente, los chiquillos de los niños y el agobio que llevaba arrastrado. Estaba cerca de lograr la iluminación cuando el destino optó por mandarle un aviso en forma de autobús U3. 
+Manolo asintió, dejándose llevar por el sonido de las olas y el olor a las brasas del chiringuito. Estaba en pleno descanso espiritual, intentando ignorar a la gente, los chiquillos de los niños y el agobio que llevaba arrastrado. Estaba cerca de lograr la iluminación cuando el destino optó por mandarle un aviso en forma de autobús U3. 
 
-Un chillido de frenos duros, un "¡SKRETCH! " que hizo temblar hasta los pelos de un calvo, interrumpió el mantra de Baldomero. Baldomero abrió un ojo y lo que vio le asustó más que si se le hubiera caído la cerveza de la mano. 
+Un chillido de frenos duros, un "¡SKRETCH! " que hizo temblar hasta los pelos de un calvo, interrumpió el mantra de Baldomero. Este abrió un ojo y lo que vio le asustó más que si se le hubiera caído la cerveza de la mano. 
 
 Ahí estaba ella. La abuela de Manolo, Primitiva. Parecía que era una mecánica de autobuses en pleno Paseo del Parque. Primitiva no era una abuela común; ella siempre iba con sus gafas de sol negras, su cadena de oro y ese "rollito urbano" que los años no habían borrado. 
 
