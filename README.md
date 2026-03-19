@@ -82,7 +82,7 @@ Primitiva <br>
 
 ### Conclusiones/Valoración del equipo
 
-
+En conclusión, este proyecto nos ha permitido desarrollar una mayor creatividad, construyendo una historia a partir de una lluvia de ideas incial. Las imágenes de los personajes han sido creadas con inteligencia artificial, lo que nos ha permitido materializar el aspecto físico de los personajes que habíamos imaginado. Por otra parte, el formato interactivo facilita que el público conecte con el proyecto, favoreciendo su visibilidad y la posibilidad generar engagement, lo que nos permitirá seguir desarrollando nuevos episodios sobre la historia de Manolo. ¡Aún queda mucho por mostrar!
 
 
 
