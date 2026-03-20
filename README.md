@@ -67,7 +67,7 @@ Manolo, que buscaba la tranquilidad y equilibrio en su retiro espiritual en Mál
 
 - Personajes: <br>
 
-  **Manolo** <br>
+     **Manolo** <br>
 <img width="256" height="384" alt="image (1)" src="https://github.com/user-attachments/assets/5031dc26-dd63-4c22-b8c9-f545fc55221e" /> <br>
   
 **Baldomero** <br>
