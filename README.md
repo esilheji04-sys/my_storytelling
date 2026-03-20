@@ -55,19 +55,19 @@ Ahí estaba ella. La abuela de Manolo, Primitiva. Parecía que era una mecánica
 
 El enorme autobús de la EMT Málaga golpeó a la anciana Primitiva justo cuando ella cruzaba. Primitiva pegó un grito de socorro que se escuchó hasta en el Palo. Manolo corrió por la arena, con las chanclas saltando y el corazón latiendo muy rápido, viendo cómo su retiro espiritual se volvía una pesadilla de metal, goma y gritos. 
 
-Baldomero se quedó sentado, con la sardina a medio comer y la mirada vacía, ya no sabía si comerse una sardina con piruletas o un espeto con mayonesa. Su retiro acababa de concluir, y lo que llegaba ahora no lo curaba ni toda la meditación del mundo, ni mucho menos todos los espetos de la malagueta.
+Baldomero se quedó sentado, con la sardina a medio comer y la mirada vacía, ya no sabía si comerse una sardina con piruletas o un espeto con mayonesa. Su retiro acababa de concluir, y lo que llegaba ahora no lo curaba ni toda la meditación del mundo, ni mucho menos todos los espetos de La Malagueta.
 
 ### TagLine
 Un trágico suceso perturba el retiro espiritual de Manolo.
 
 ### Conflicto 
-
+Manolo, que buscaba la tranquilidad y equilibrio en su retiro espiritual en Málaga, se enfrenta de pronto a una trágica situación al presenciar el atropello de su abuela Primitiva, lo que acaba con su estado de paz y desconexión y da paso a un caótico escenario.
 
 ### Productos
 
 - Personajes: <br>
 
-**Manolo** <br>
+  **Manolo** <br>
 <img width="256" height="384" alt="image (1)" src="https://github.com/user-attachments/assets/5031dc26-dd63-4c22-b8c9-f545fc55221e" /> <br>
   
 **Baldomero** <br>
