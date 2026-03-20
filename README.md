@@ -30,15 +30,14 @@ Tipo/Género:
 Manolo se encuentra de retiro espiritual en la playa de La Malagueta con su compañero Baldomero. Mientras los dos se comen un espeto, la abuela de Manolo es atropellada por un autobús U3.
 
 ### Personaje
+(Los personajes se encuentran más abajo del tablero)
+
+<img width="1024" height="540" alt="image (9)" src="https://github.com/user-attachments/assets/87d9a92b-03ec-4add-8597-ed7779070782" />
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/09fcd336-2915-49e2-827f-7847dc7388bb" />
 
 
-![](img-nobody.png)
-
-Nombre: 
 
 
-NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
-* hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
 
 ### Historia
 La calma en la playa de La Malagueta era tan palpable que casi se podía cortar, o eso al menos intentaba Manolo. Sentado en la silla de un bar, con su panza saliendo por debajo de una camiseta gris y un vaso de cerveza en la mano, Manolo cerraba los ojos buscando el "nirvana" malagueño. Junto a él, Baldomero, con una camisa azul perfecta y aspecto de experto de ocasión, disfrutaba de un espeto con una distinción que resultaba casi ofensiva. 
