@@ -45,7 +45,7 @@ La calma en la playa de La Malagueta era tan palpable que casi se podía cortar,
 
 —Nota el equilibrio, Manolo — decía Baldomero mientras se comía una sardina—. La vida es como este espeto: si te olvidas, se te quema, pero si la sabes mover. . . es pura maravilla. 
 
-Manolo asintió, dejándose llevar por el sonido de las olas y el olor a las brasas del chiringuito. Estaba en pleno descanso espiritual, intentando ignorar a la gente, los chiquillos de los niños y el agobio que llevaba arrastrado. Estaba cerca de lograr la iluminación cuando el destino optó por mandarle un aviso en forma de autobús U3. 
+Manolo asintió, dejándose llevar por el sonido de las olas y el olor a las brasas del chiringuito. Estaba en pleno descanso espiritual, intentando ignorar a la gente, los chillidos de los niños y el agobio que llevaba arrastrado. Estaba cerca de lograr la iluminación cuando el destino optó por mandarle un aviso en forma de autobús U3. 
 
 Un chillido de frenos duros, un "¡SKRETCH! " que hizo temblar hasta los pelos de un calvo, interrumpió el mantra de Baldomero. Este abrió un ojo y lo que vio le asustó más que si se le hubiera caído la cerveza de la mano. 
 
@@ -67,7 +67,7 @@ Un trágico suceso perturba el retiro espiritual de Manolo.
 
 - Personajes: <br>
 
-Manolo <br>
+         Manolo <br>
 <img width="256" height="384" alt="image (1)" src="https://github.com/user-attachments/assets/5031dc26-dd63-4c22-b8c9-f545fc55221e" /> <br>
   
 Baldomero <br>
